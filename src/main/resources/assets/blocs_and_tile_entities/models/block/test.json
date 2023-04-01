@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "blocs_and_tile_entities:block/test"
+  }
+}

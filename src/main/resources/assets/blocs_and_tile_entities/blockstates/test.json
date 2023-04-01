@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "":
+    {
+      "model": "blocs_and_tile_entities:block/test"
+    }
+  }
+}
